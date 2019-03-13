@@ -1,0 +1,37 @@
+[
+    {
+        "name": "MEN",
+        "href":
+        {
+            "jeans": "men-jeans.html",
+            "shorts": "men-shorts.html",
+            "shouse": "men-shouse.html",
+            "tShirts": "men-t-shirts.html"
+        },
+        "nameHref":
+        {
+            "jeans": "JEANS",
+            "shorts": "SHORTS",
+            "shouse": "SHOUSE",
+            "tShirts": "T-SHIRTS"
+        }
+    },
+    {
+       
+        "name": "WOMEN",
+        "href":
+        {
+            "jeans": "women-jeans.html",
+            "shorts": "womem-shorts-skirts.html",
+            "tShirts": "women-t-shirts.html",
+            "shouse":"women-shouse.html"
+        },
+        "nameHref":
+        {
+            "jeans": "JEANS",
+            "shorts": "SHORTS",
+            "shouse": "SHOUSE",
+            "tShirts": "T-SHIRTS"
+        }
+    }
+]

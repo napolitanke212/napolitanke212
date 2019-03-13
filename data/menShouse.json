@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "img": {
+            "src":"images/men-shouse1.jpg",
+            "alt": "shouse"
+        },
+        "name":"D-Staq 3D Slim Shouse",
+        "price": 100,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 2,
+        "img": {
+            "src":"images/men-shouse2.jpg",
+            "alt": "shouse"
+        },
+        "name":"Elwood Staq Skinny Shouse",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 3,
+        "img": {
+            "src":"images/men-shouse3.jpg",
+            "alt": "shouse"
+        },
+        "name":"Deconstructed 3D Revend Shouse",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 4,
+        "img": {
+            "src":"images/men-shouse4.jpg",
+            "alt": "shouse"
+        },
+        "name":"Elwood Slim Shouse",
+        "price": 160,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 5,
+        "img": {
+            "src":"images/men-shouse5.jpg",
+            "alt": "shouse"
+        },
+        "name":"D-Staq Slim Shouse",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 6,
+        "img": {
+            "src":"images/men-shouse6.jpg",
+            "alt": "shouse"
+        },
+        "name":"Staq Skinny Shouse",
+        "price": 50,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 7,
+        "img": {
+            "src":"images/men-shouse7.jpg",
+            "alt": "shouse"
+        },
+        "name":"Elwood 3D Shouse",
+        "price": 45,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 8,
+        "img": {
+            "src":"images/men-shouse8.jpg",
+            "alt": "shouse"
+        },
+        "name":"Skinny Revend Fancy Shouse",
+        "price": 105,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 9,
+        "img": {
+            "src":"images/men-shouse9.jpg",
+            "alt": "shouse"
+        },
+        "name":"Skinny Slim D-Staq Shouse",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 10,
+        "img": {
+            "src":"images/men-shouse10.jpg",
+            "alt": "shouse"
+        },
+        "name":"Revend Slim Pro Shouse",
+        "price": 58,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 11,
+        "img": {
+            "src":"images/men-shouse11.jpg",
+            "alt": "shouse"
+        },
+        "name":"3D Staq Shouse",
+        "price": 90,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 12,
+        "img": {
+            "src":"images/men-shouse12.jpg",
+            "alt": "shouse"
+        },
+        "name":"Elwood D-Staq Mood Shouse",
+        "price": 110,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 13,
+        "img": {
+            "src":"images/men-shouse13.jpg",
+            "alt": "shouse"
+        },
+        "name":"Revend Slim 3D Hello Shouse",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 14,
+        "img": {
+            "src":"images/men-shouse14.jpg",
+            "alt": "shouse"
+        },
+        "name":"Skinny D-Staq Shouse",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 15,
+        "img": {
+            "src":"images/men-shouse15.jpg",
+            "alt": "shouse"
+        },
+        "name":"Staq 3D Shouse",
+        "price": 65,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 16,
+        "img": {
+            "src":"images/men-shouse16.jpg",
+            "alt": "shouse"
+        },
+        "name":"Elwood 3D Skinny Shouse",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    }
+]
+    

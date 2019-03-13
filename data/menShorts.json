@@ -1,0 +1,303 @@
+[
+    {
+        "id": 21,
+        "img": {
+            "src":"images/men-shorts1.jpg",
+            "alt": "shorts"
+        },
+        "name":"D-Staq 3D Slim Shorts",
+        "price": 100,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 22,
+        "img": {
+            "src":"images/men-shorts2.jpg",
+            "alt": "shorts"
+        },
+        "name":"Elwood Staq Skinny Shorts",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 23,
+        "img": {
+            "src":"images/men-shorts3.jpg",
+            "alt": "shorts"
+        },
+        "name":"Deconstructed 3D Revend Shorts",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 24,
+        "img": {
+            "src":"images/men-shorts4.jpg",
+            "alt": "shorts"
+        },
+        "name":"Elwood Slim Shorts",
+        "price": 160,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 25,
+        "img": {
+            "src":"images/men-shorts5.jpg",
+            "alt": "shorts"
+        },
+        "name":"D-Staq Slim Shorts",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 26,
+        "img": {
+            "src":"images/men-shorts6.jpg",
+            "alt": "shorts"
+        },
+        "name":"Staq Skinny Shorts",
+        "price": 50,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 27,
+        "img": {
+            "src":"images/men-shorts7.jpg",
+            "alt": "shorts"
+        },
+        "name":"Elwood 3D Shorts",
+        "price": 45,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 28,
+        "img": {
+            "src":"images/men-shorts8.jpg",
+            "alt": "shorts"
+        },
+        "name":"Skinny Revend Fancy Shorts",
+        "price": 105,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 29,
+        "img": {
+            "src":"images/men-shorts9.jpg",
+            "alt": "shorts"
+        },
+        "name":"Skinny Slim D-Staq Shorts",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 30,
+        "img": {
+            "src":"images/men-shorts10.jpg",
+            "alt": "shorts"
+        },
+        "name":"Revend Slim Pro Shorts",
+        "price": 58,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 31,
+        "img": {
+            "src":"images/men-shorts11.jpg",
+            "alt": "shorts"
+        },
+        "name":"3D Staq Shorts",
+        "price": 90,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 32,
+        "img": {
+            "src":"images/men-shorts12.jpg",
+            "alt": "shorts"
+        },
+        "name":"Elwood D-Staq Mood Shorts",
+        "price": 110,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 33,
+        "img": {
+            "src":"images/men-shorts13.jpg",
+            "alt": "shorts"
+        },
+        "name":"Revend Slim 3D Hello Shorts",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 34,
+        "img": {
+            "src":"images/men-shorts14.jpg",
+            "alt": "shorts"
+        },
+        "name":"Skinny D-Staq Shorts",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 35,
+        "img": {
+            "src":"images/men-shorts15.jpg",
+            "alt": "shorts"
+        },
+        "name":"Staq 3D Shorts",
+        "price": 65,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 36,
+        "img": {
+            "src":"images/men-shorts16.jpg",
+            "alt": "shorts"
+        },
+        "name":"Elwood 3D Skinny Shorts",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 37,
+        "img": {
+            "src":"images/men-shorts17.jpg",
+            "alt": "shorts"
+        },
+        "name":"Revend 3D Cool Shorts",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 38,
+        "img": {
+            "src":"images/men-shorts18.jpg",
+            "alt": "shorts"
+        },
+        "name":"Staq 3D Hex Shorts",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 39,
+        "img": {
+            "src":"images/men-shorts19.jpg",
+            "alt": "shorts"
+        },
+        "name":"Slim Revend Shorts",
+        "price": 120,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 40,
+        "img": {
+            "src":"images/men-shorts20.jpg",
+            "alt": "shorts"
+        },
+        "name":"D-Staq Skinny 3D Shorts",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    }
+]
+    

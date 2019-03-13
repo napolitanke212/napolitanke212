@@ -1,0 +1,38 @@
+[
+    {
+        "img": {
+            "src":"images/article-men1.jpg",
+            "alt": "jeans"
+        },
+        "name":"D-Staq 3D Slim Jeans",
+        "price": 100,
+        "href":"men-jeans.html"
+    },
+    {
+        "img": {
+            "src":"images/article-men2.jpg",
+            "alt": "shoes"
+        },
+        "name":"Rockam Core Sneakers",
+        "price": 110,
+        "href":"men-shouse.html"
+    },
+    {
+        "img": {
+            "src":"images/article-men3.jpg",
+            "alt": "jeans"
+        },
+        "name":"Hyce Relaxed Sweater Shorts",
+        "price": 90,
+        "href":"men-jeans.html"
+    },
+    {
+        "img": {
+            "src":"images/article-men4.jpg",
+            "alt": "jeans"
+        },
+        "name":"Mostom T-Shirt",
+        "price": 60,
+        "href":"men-jeans.html"
+    }
+]

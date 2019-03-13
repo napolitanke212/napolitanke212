@@ -1,0 +1,303 @@
+[
+    {
+        "id": 1,
+        "img": {
+            "src":"images/men-jeans1.jpg",
+            "alt": "jeans"
+        },
+        "name":"D-Staq 3D Slim Jeans",
+        "price": 100,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 2,
+        "img": {
+            "src":"images/men-jeans2.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood Staq Skinny Jeans",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 3,
+        "img": {
+            "src":"images/men-jeans3.jpg",
+            "alt": "jeans"
+        },
+        "name":"Deconstructed 3D Revend Jeans",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 4,
+        "img": {
+            "src":"images/men-jeans4.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood Slim Jeans",
+        "price": 160,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 5,
+        "img": {
+            "src":"images/men-jeans5.jpg",
+            "alt": "jeans"
+        },
+        "name":"D-Staq Slim Jeans",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 6,
+        "img": {
+            "src":"images/men-jeans6.jpg",
+            "alt": "jeans"
+        },
+        "name":"Staq Skinny Jeans",
+        "price": 50,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 7,
+        "img": {
+            "src":"images/men-jeans7.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood 3D Jeans",
+        "price": 45,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 8,
+        "img": {
+            "src":"images/men-jeans8.jpg",
+            "alt": "jeans"
+        },
+        "name":"Skinny Revend Fancy Jeans",
+        "price": 105,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 9,
+        "img": {
+            "src":"images/men-jeans9.jpg",
+            "alt": "jeans"
+        },
+        "name":"Skinny Slim D-Staq Jeans",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 10,
+        "img": {
+            "src":"images/men-jeans10.jpg",
+            "alt": "jeans"
+        },
+        "name":"Revend Slim Pro Jeans",
+        "price": 58,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 11,
+        "img": {
+            "src":"images/men-jeans11.jpg",
+            "alt": "jeans"
+        },
+        "name":"3D Staq Jeans",
+        "price": 90,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 12,
+        "img": {
+            "src":"images/men-jeans12.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood D-Staq Mood Jeans",
+        "price": 110,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 13,
+        "img": {
+            "src":"images/men-jeans13.jpg",
+            "alt": "jeans"
+        },
+        "name":"Revend Slim 3D Hello Jeans",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 14,
+        "img": {
+            "src":"images/men-jeans14.jpg",
+            "alt": "jeans"
+        },
+        "name":"Skinny D-Staq Jeans",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 15,
+        "img": {
+            "src":"images/men-jeans15.jpg",
+            "alt": "jeans"
+        },
+        "name":"Staq 3D Jeans",
+        "price": 65,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 16,
+        "img": {
+            "src":"images/men-jeans16.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood 3D Skinny Jeans",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 17,
+        "img": {
+            "src":"images/men-jeans17.jpg",
+            "alt": "jeans"
+        },
+        "name":"Revend 3D Cool Jeans",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 18,
+        "img": {
+            "src":"images/men-jeans18.jpg",
+            "alt": "jeans"
+        },
+        "name":"Staq 3D Hex Jeans",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 19,
+        "img": {
+            "src":"images/men-jeans19.jpg",
+            "alt": "jeans"
+        },
+        "name":"Slim Revend Jeans",
+        "price": 120,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 20,
+        "img": {
+            "src":"images/men-jeans20.jpg",
+            "alt": "jeans"
+        },
+        "name":"D-Staq Skinny 3D Jeans",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    }
+]
+    

@@ -1,0 +1,348 @@
+[
+    {
+        "id": 1,
+        "img": {
+            "src":"images/men-t-shirts1.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"D-Staq 3D Slim T-Shirt",
+        "price": 100,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 2,
+        "img": {
+            "src":"images/men-t-shirts2.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Elwood Staq Skinny T-Shirt",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 3,
+        "img": {
+            "src":"images/men-t-shirts3.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Deco 3D Revend T-Shirt",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 4,
+        "img": {
+            "src":"images/men-t-shirts4.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Elwood Slim T-Shirt",
+        "price": 160,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 5,
+        "img": {
+            "src":"images/men-t-shirts5.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"D-Staq Slim T-Shirt",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 6,
+        "img": {
+            "src":"images/men-t-shirts6.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Staq Skinny T-Shirt",
+        "price": 50,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 7,
+        "img": {
+            "src":"images/men-t-shirts7.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Elwood 3D T-Shirt",
+        "price": 45,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 8,
+        "img": {
+            "src":"images/men-t-shirts8.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Skinny Revend Fancy T-Shirt",
+        "price": 105,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 9,
+        "img": {
+            "src":"images/men-t-shirts9.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Skinny Slim D-Staq T-Shirt",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 10,
+        "img": {
+            "src":"images/men-t-shirts10.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Revend Slim Pro T-Shirt",
+        "price": 58,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 11,
+        "img": {
+            "src":"images/men-t-shirts11.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"3D Staq T-Shirt",
+        "price": 90,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 12,
+        "img": {
+            "src":"images/men-t-shirts12.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Elwood D-Staq Mood T-Shirt",
+        "price": 110,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 13,
+        "img": {
+            "src":"images/men-t-shirts13.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Revend Slim 3D Hello T-Shirt",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 14,
+        "img": {
+            "src":"images/men-t-shirts14.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Skinny D-Staq T-Shirt",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 15,
+        "img": {
+            "src":"images/men-t-shirts15.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Staq 3D T-Shirt",
+        "price": 65,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 16,
+        "img": {
+            "src":"images/men-t-shirts16.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Elwood 3D Skinny T-Shirt",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 17,
+        "img": {
+            "src":"images/men-t-shirts17.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Revend 3D Cool T-Shirt",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 18,
+        "img": {
+            "src":"images/men-t-shirts18.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Staq 3D Hex T-Shirt",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 19,
+        "img": {
+            "src":"images/men-t-shirts19.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Slim Revend T-Shirt",
+        "price": 120,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 20,
+        "img": {
+            "src":"images/men-t-shirts20.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"D-Staq Skinny 3D T-Shirt",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 21,
+        "img": {
+            "src":"images/men-t-shirts21.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Staq Slim  T-Shirt",
+        "price": 75,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 22,
+        "img": {
+            "src":"images/men-t-shirts22.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"Elwood Skinny T-Shirt",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 23,
+        "img": {
+            "src":"images/men-t-shirts23.jpg",
+            "alt": "t-shirt"
+        },
+        "name":"D-Staq Extra 3D T-Shirt",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    }
+]
+    

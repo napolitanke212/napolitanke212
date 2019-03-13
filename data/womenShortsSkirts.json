@@ -1,0 +1,303 @@
+[
+    {
+        "id": 1,
+        "img": {
+            "src":"images/women-shorts-skirts1.jpg",
+            "alt": "jeans"
+        },
+        "name":"D-Staq 3D Slim Shorts",
+        "price": 100,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 2,
+        "img": {
+            "src":"images/women-shorts-skirts2.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood Staq Skinny Shorts",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 3,
+        "img": {
+            "src":"images/women-shorts-skirts3.jpg",
+            "alt": "jeans"
+        },
+        "name":"Deconstructed 3D Revend Skirt",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 4,
+        "img": {
+            "src":"images/women-shorts-skirts4.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood Slim Shorts",
+        "price": 160,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 5,
+        "img": {
+            "src":"images/women-shorts-skirts5.jpg",
+            "alt": "jeans"
+        },
+        "name":"D-Staq Slim Shorts",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 6,
+        "img": {
+            "src":"images/women-shorts-skirts6.jpg",
+            "alt": "jeans"
+        },
+        "name":"Staq Skinny Skirt",
+        "price": 50,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 7,
+        "img": {
+            "src":"images/women-shorts-skirts7.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood 3D Skirt",
+        "price": 45,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 8,
+        "img": {
+            "src":"images/women-shorts-skirts8.jpg",
+            "alt": "jeans"
+        },
+        "name":"Skinny Revend Fancy Skirt",
+        "price": 105,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 9,
+        "img": {
+            "src":"images/women-shorts-skirts9.jpg",
+            "alt": "jeans"
+        },
+        "name":"Skinny Slim D-Staq Shorts",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 10,
+        "img": {
+            "src":"images/women-shorts-skirts10.jpg",
+            "alt": "jeans"
+        },
+        "name":"Revend Slim Pro Shorts",
+        "price": 58,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 11,
+        "img": {
+            "src":"images/women-shorts-skirts11.jpg",
+            "alt": "jeans"
+        },
+        "name":"3D Staq Shorts",
+        "price": 90,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 12,
+        "img": {
+            "src":"images/women-shorts-skirts12.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood D-Staq Mood Shorts",
+        "price": 110,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 13,
+        "img": {
+            "src":"images/women-shorts-skirts13.jpg",
+            "alt": "jeans"
+        },
+        "name":"Revend Slim 3D Hello Shorts",
+        "price": 55,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 14,
+        "img": {
+            "src":"images/women-shorts-skirts14.jpg",
+            "alt": "jeans"
+        },
+        "name":"Skinny D-Staq Skirt",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    },
+    {
+        "id": 15,
+        "img": {
+            "src":"images/women-shorts-skirts15.jpg",
+            "alt": "jeans"
+        },
+        "name":"Staq 3D Skirt",
+        "price": 65,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 16,
+        "img": {
+            "src":"images/women-shorts-skirts16.jpg",
+            "alt": "jeans"
+        },
+        "name":"Elwood 3D Skinny Skirt",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 5,
+                "style": "Elwood"
+            }
+    },
+    {
+        "id": 17,
+        "img": {
+            "src":"images/women-shorts-skirts17.jpg",
+            "alt": "jeans"
+        },
+        "name":"Revend 3D Cool Skirt",
+        "price": 80,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 18,
+        "img": {
+            "src":"images/women-shorts-skirts18.jpg",
+            "alt": "jeans"
+        },
+        "name":"Staq 3D Hex Shorts",
+        "price": 60,
+        "href":"#",
+        "style":
+            {
+                "id": 7,
+                "style": "Staq"
+            }
+    },
+    {
+        "id": 19,
+        "img": {
+            "src":"images/women-shorts-skirts19.jpg",
+            "alt": "jeans"
+        },
+        "name":"Slim Revend Skirt",
+        "price": 120,
+        "href":"#",
+        "style":
+            {
+                "id": 6,
+                "style": "Revend"
+            }
+    },
+    {
+        "id": 20,
+        "img": {
+            "src":"images/women-shorts-skirts20.jpg",
+            "alt": "jeans"
+        },
+        "name":"D-Staq Skinny 3D Shorts",
+        "price": 70,
+        "href":"#",
+        "style":
+            {
+                "id": 1,
+                "style": "D-Staq"
+            }
+    }
+]
+    
